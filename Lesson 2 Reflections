@@ -4,4 +4,6 @@ Lesson 2 Reflections
 
 It creates a .git file to indicate that the directory is a repository. We need it to do it so that we can use Github's website and share the information with other people.
 
-9.
+9. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is the process before doing things to the repository and after a working directory has been created. It holds the information of what the person has done to the repository before they are ready to commit. The value is that Github uses this to save the history of what has been done in the repository or before it is even committed to the repository. Therefore it makes it easier for people to see what they have done before commiting to the repository.
