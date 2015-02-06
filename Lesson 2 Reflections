@@ -1,0 +1,7 @@
+Lesson 2 Reflections
+
+8. What happens when you initialize a repository? Why do you need to do it?
+
+It creates a .git file to indicate that the directory is a repository. We need it to do it so that we can use Github's website and share the information with other people.
+
+9.
