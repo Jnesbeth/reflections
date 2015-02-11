@@ -1,9 +1,29 @@
 Lesson 2 Reflections
 
-8. What happens when you initialize a repository? Why do you need to do it?
+1. What happens when you initialize a repository? Why do you need to do it?
 
 It creates a .git file to indicate that the directory is a repository. We need it to do it so that we can use Github's website and share the information with other people.
 
-9. How is the staging area different from the working directory and the repository? What value do you think it offers?
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is the process before doing things to the repository and after a working directory has been created. It holds the information of what the person has done to the repository before they are ready to commit. The value is that Github uses this to save the history of what has been done in the repository or before it is even committed to the repository. Therefore it makes it easier for people to see what they have done before commiting to the repository.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+You can use the diff command to see the changes that are being made after adding to the staging area and before making a total commit to double check that you are doing the right change. 
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+If a person in a team project, or individual project wants to make a different version of the project that they are working on. Branches help to separate this information so that if a bug occurs in a different branch then we are able to go back to main branch where everything was working. 
+
+5. How do the diagrams help you visualize the branch structure?
+
+The diagrams help with showing where each branch can be access to and where the history is lined up to help with how the branches can take very different turns. It helps if there are many branches to the master branch or even a branch to another branch, then we can see where that branch went and what it changed in the main project. It helps with using branches even in the past by using git checkout and finding the point from which you would want to start the new branch.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is having all the changes placed into one file/ repository branch so that each changes work together fluently. We represent it like that so that it is much easier to understand what we have done before we continue with the project.
+
+7.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+It gives you an second check to make sure that what you are adding (the experimetntal code) is accurately added into the master code or the main code. While when you do it manually you would have to check the entire piece of code to find out what is the problem when adding all the experimental code into the project.
