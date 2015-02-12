@@ -18,3 +18,7 @@ Why might you want to always pull changes manually rather than having Git automa
   
   There would have to be constant communication through email sending files between other parties as files are changing constantly throughout the project. It would be easier to make changes if there were two people working on the project, but will get progressively harder to keep track of the changes made after more people are involved with the project.
   
+  When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  
+  This is when you would want to experiment with the code differently and not lose the work that has been done up until that moment in time. The benefits are that you have the socail aspect of having that branch being used by yourself and other people while other people could also experiement with something different or continue to work on the main project.
+  
