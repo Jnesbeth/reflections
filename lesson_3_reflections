@@ -14,3 +14,7 @@ Why might you want to always pull changes manually rather than having Git automa
   
   It helps with the changes that are being made on GitHub itself, so if there was a changes made on GitHub then there is back up stored locally.
   
+  How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+  
+  There would have to be constant communication through email sending files between other parties as files are changing constantly throughout the project. It would be easier to make changes if there were two people working on the project, but will get progressively harder to keep track of the changes made after more people are involved with the project.
+  
